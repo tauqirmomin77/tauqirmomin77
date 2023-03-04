@@ -1,31 +1,34 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Tauqir Momin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tauqirmomin77&label=Profile%20views&color=0e75b6&style=flat" alt="tauqirmomin77" /> </p>
+# Tauqir Momin's GitHub Profile<br>
+Welcome to my GitHub profile! I'm a ***Web Developer*** who loves to code and contribute to open-source projects. On this page, you'll find information about my projects, skills, and interests.
 
-- 🔭 I’m currently working on **Glass web project**
+## Projects<br>
+>Here are some of the projects I've created or contributed to recently:
 
-- 🌱 I’m currently learning **Java Programming**
+* [The Web Page:](https://github.com/tauqirmomin77/the-tauqir-web.git) A simple website page is a basic website that contains essential information about a particular topic, product, or service. It typically includes a homepage, an "About Us" page, a contact page, and additional pages or sections that provide further details. The purpose of a simple website page is to provide a clear and concise overview of the topic or product, making it easy for visitors to find the information they need quickly and easily. Simple website pages are typically designed to be easy to use and navigate, with a clean and minimalist layout that emphasizes the content.<br>
+* [Responsive Website:](https://github.com/tauqirmomin77/responsive-website.git) A responsive website page is a website that is designed to adjust its layout and content to fit different screen sizes and resolutions. With the increasing use of mobile devices to access the internet, it's crucial that websites are designed to be responsive to ensure a seamless user experience across all devices. Responsive website pages typically use a combination of flexible grids, images, and CSS media queries to adjust the layout and content to fit different screen sizes. This ensures that the website is easy to use and navigate, regardless of the device being used. The benefits of a responsive website page include increased accessibility, improved user engagement, and better search engine rankings.<br>
+* [Animated Website:](https://github.com/tauqirmomin77/animated-website.git) An animated website page is a website that features animations, visual effects, or interactive elements to enhance the user experience. These animations can include moving graphics, scrolling effects, animated menus, or interactive elements that respond to user actions. The purpose of an animated website page is to make the website more engaging and visually appealing to the user, which can improve user engagement and encourage them to spend more time on the website. However, it's important to balance the use of animations with the website's usability and loading times to avoid negatively impacting the user experience. The benefits of an animated website page include improved user engagement, increased brand awareness, and enhanced visual appeal<br>
 
-- 💬 Ask me about **HTML , C/C++**
+## Skills
+>I have experience in the following programming languages and tools:
 
-- 📫 How to reach me **tauqirmomin19@gmail.com**
+* **HTML & CSS:** HTML and CSS are two of the core technologies used to build websites. HTML, or HyperText Markup Language, is used to structure the content of a web page and define its layout.<br>
+* **JAVA:** Java is a popular programming language that is widely used in software development, particularly for creating web-based applications and mobile apps.<br>
+* **PYTHON:** Python is a popular high-level programming language that is widely used for various applications such as web development, data analysis, scientific computing, and artificial intelligence.<br>
+* **VS CODE:** VS Code is highly customizable and extensible, with a large and active community of developers who have created a wide range of extensions and plugins that extend the functionality of the tool.<br>
 
-- ⚡ Fun fact **I'm Focused**
+## Interests
+>In addition to coding, I enjoy Coding, and I believe in maintaining a healthy work-life balance. Here are some of my interests:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tauqirmomin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tauqirmomin" height="30" width="40" /></a>
-<a href="https://instagram.com/tauqir_momin_tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tauqir_momin_tm" height="30" width="40" /></a>
-</p>
+* **Football:** Football is my favourite hobby. It's a team sport, in which you can score only by placing the ball inside the goal of the opposite team. Teams content 11 players – field players and a goalkeeper. The goalkeeper's role is to protect the goal.<br>
+* **Learning Languages:** Learning a new language is an engaging and rewarding hobby that offers numerous benefits beyond just being able to communicate with people from different cultures. It challenges the brain to learn new vocabulary, grammar rules, and pronunciation, which improves cognitive function and memory. It also enhances cultural awareness and empathy, and it opens up opportunities for travel, education, and work.<br>
+* **Cycling:** Cycling can improve cardiovascular health and increase endurance and stamina. It can also help to burn calories and maintain a healthy weight, reducing the risk of obesity and related health problems such as diabetes, heart disease, and stroke. Cycling is also a great way to improve mental health, as it releases endorphins that can reduce stress and anxiety, improving mood and overall well-being.<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Contact
+>If you'd like to get in touch with me, you can reach me via:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tauqirmomin77&show_icons=true&locale=en&layout=compact" alt="tauqirmomin77" /></p>
+**Email:** tauqirmomin19@gmail.com <br> 
+**Portfolio:** [Link to your Twitter profile]<br>
+**LinkedIn:** https://www.linkedin.com/in/tauqirmomin/<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tauqirmomin77&show_icons=true&locale=en" alt="tauqirmomin77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tauqirmomin77&" alt="tauqirmomin77" /></p>
+#### Thanks for visiting my GitHub profile, and I look forward to connecting with you!
