@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a ***Web Developer*** who loves to code and co
 >If you'd like to get in touch with me, you can reach me via:
 
 **Email:** tauqirmomin19@gmail.com <br> 
-**Portfolio:** [Link to your Twitter profile]<br>
 **LinkedIn:** https://www.linkedin.com/in/tauqirmomin/<br>
 
 #### Thanks for visiting my GitHub profile, and I look forward to connecting with you!
